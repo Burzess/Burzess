@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halim</h1>
-<h3 align="center">A passionate backend developer from Flores Timur</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=burzess&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </p>
 
-  <!-- GitHub Contribution Graph -->
-  ![snake gif](https://github.com/burzess/burzess/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
