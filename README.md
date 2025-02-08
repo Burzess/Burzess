@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Halim</h1>
 <h3 align="center">A passionate backend developer from Flores Timur</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=burzess&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Coding GIF" />
   
@@ -12,7 +16,7 @@
   </p>
 
   <!-- GitHub Contribution Graph -->
-  ![snake gif](https://github.com/burzess/burzess/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
@@ -25,10 +29,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burzess&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=burzess&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
