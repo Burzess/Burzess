@@ -16,7 +16,7 @@
   </p>
 
   <!-- GitHub Contribution Graph -->
-  ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/burzess/burzess/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
@@ -35,7 +35,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/halim_2315" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
