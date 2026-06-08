@@ -17,20 +17,6 @@
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burzess&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burzess&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
